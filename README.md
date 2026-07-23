@@ -5,3 +5,4 @@ The tool includes flexible typography controls, automatic text wrapping and resi
 During batch generation, each completed image appears automatically in the live preview while the progress bar and activity log display the current status. Generated images are saved in an organized output folder with a CSV log that records the background image and quote used for every design.
 
 Quote Image Generator Pro is ideal for Facebook quote pages, Instagram posts, TikTok content, motivational pages, social media managers, and creators who need consistent, professional quote graphics without designing every image manually.
+![Quote Image Generator Pro Screenshot](https://raw.githubusercontent.com/phatsavin/Quote-Image-Generator-Pro/main/Screenshot%202026-07-23%20201734.png)
